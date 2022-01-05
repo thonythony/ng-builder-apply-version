@@ -1,0 +1,9 @@
+{
+  "builders": {
+    "from-packagejson": {
+      "implementation": "./from-packagejson",
+      "schema": "./from-packagejson/schema.json",
+      "description": "Extract package.json version and set into relevant environment files"
+    }
+  }
+}

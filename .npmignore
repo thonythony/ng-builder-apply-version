@@ -1,0 +1,5 @@
+*.ts
+!*.d.ts
+test-app
+.github
+.DS_Store
